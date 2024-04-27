@@ -1,6 +1,9 @@
 # Instructions To Run
 
-The code can be run and tested by copy-pasting the below python code at the bottom of the ```Transaction.py``` file. Please note that exception-raising statments (marked "ERROR-RAISING") will need to be commented out in order to run statements that follow them.
+The code can be tested by copy-pasting the below python code at the bottom of the ```Transaction.py``` file. The python program can be run via ```python Transaction.py``` for MacOS or ```py Transaction.py``` for Windows. 
+
+**Note:**
+- Exception-raising statments (marked "ERROR-RAISING") will need to be commented out in order to run statements that follow them.
 
 ```python
 inmemoryDB = Transaction()
